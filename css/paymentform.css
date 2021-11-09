@@ -1,0 +1,25 @@
+.radiobutton1,
+.radiobutton2 {
+    display: none;
+position: absolute;
+}
+.form-display-none {
+    display: none;
+}
+.form-display-block {
+    display: block;
+}
+
+.label-group {
+    text-align: center;
+    margin: 20px;
+    font-size: 30px;
+}
+
+.label-group i {
+    color: midnightblue;
+    margin: 10px;
+}
+.form-control {
+    margin-bottom: 10px;
+}
